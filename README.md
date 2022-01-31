@@ -1,5 +1,5 @@
 # Japan Musea / Landingspage
-[![Een foto gebruikt in de site, gefotografeerd door Alex Knight)](https://lp.mediacollege.work/img/pexels-alex-knight-2425251.jpg) 
+![Een foto gebruikt in de site, gefotografeerd door Alex Knight)](https://lp.mediacollege.work/img/pexels-alex-knight-2425251.jpg) 
 
 ## Intro
 Voor het vak F1M2ONT (Mediacollege Amsterdam, opleiding Software Developer) maken studenten twee wesbites, een blog, en een landingspagina. De landingspagina staat in het teken van het fictieve "Japan Musea". 
